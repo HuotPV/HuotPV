@@ -5,6 +5,8 @@ I try to understand how the ocean and the atmosphere interacts, how these intera
 
 I have mainly worked on regional air-sea-ice coupled models, and I'm looking forward to learn more advanced data analysis methods.
 
+(Most repositories are private as they include code from numerical models that I do not own.)
+
 📫 pvincent.huot@gmail.com
 
 <!---
