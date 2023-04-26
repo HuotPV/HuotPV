@@ -6,10 +6,6 @@ I try to understand how the ocean and the atmosphere interacts, how these intera
 I'm looking forward to learn more advanced data analysis methods, such as ML and AI methods.
 I am currently developing my Python and C++ programming skills and learning the fundamentals of operational development.
 
-(Most repositories are private as they include code from numerical models that I do not own.)
-
-📫 pvincent.huot@gmail.com
-
 <!---
 HuotPV/HuotPV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
